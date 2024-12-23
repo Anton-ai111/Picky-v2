@@ -1,1 +1,1 @@
-# Picky-v2
+# Picky
